@@ -5,9 +5,9 @@ Este projeto implementa uma aplicação simples de comunicação em rede utiliza
 O servidor aceita conexões de múltiplos clientes simultaneamente, permitindo que enviem comandos de **adição** ou **subtração**, e retorna o resultado da operação.
 
 ## Estrutura do Projeto
-├── Client.py # Código do cliente TCP
-├── Server.py # Código do servidor TCP com suporte a múltiplos clientes via threading
-└── README.md # Este arquivo
+├── Client.py # Código do cliente TCP<br>
+├── Server.py # Código do servidor TCP com suporte a múltiplos clientes via threading<br>
+└── README.md # Este arquivo<br>
 
 ## Como funciona
 
